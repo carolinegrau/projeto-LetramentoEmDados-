@@ -57,5 +57,4 @@ Abra uma issue ou envie um pull request para colaborar com a expansão deste pro
 
 ---
 
-## 📄 Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+
